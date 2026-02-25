@@ -60,9 +60,9 @@ public class Course {
         return enrollments;
     }
 
-    public void setEnrollments(List<Enrollment> enrollments) {
-        this.enrollments = enrollments;
-    }
+//    public void setEnrollments(List<Enrollment> enrollments) {
+//        this.enrollments = enrollments;
+//    }
 
     @Override
     public String toString() {
